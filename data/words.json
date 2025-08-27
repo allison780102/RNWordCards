@@ -1,0 +1,88 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "word": "solve",
+      "created_at": "2022-01-24T15:57:27.993+08:00",
+      "explanations": [
+        {
+          "translations": [
+            "解決；解答"
+          ],
+          "word_types": [
+            "v"
+          ],
+          "sentences": [
+            "Just calm down!  Yelling won't help solve the problem.",
+            "冷靜一下啦！大喊大叫無助於解決問題。",
+            "The detective is still no nearer to solving the case.",
+            "偵探離破案還差得遠了。"
+          ],
+          "notes": []
+        }
+      ],
+      "phonetic": "sɑlv",
+      "audio_url": "https://speech.wordup.com.tw/1d615b158ff0d31ecaf262e1991546473d2efd459cdbb11bd14cbee647d91edd.mp3",
+      "word_roots": [
+        {
+          "id": 1,
+          "part": "solv",
+          "note": "鬆"
+        },
+        {
+          "id": 2,
+          "part": "e",
+          "note": "動詞字尾"
+        },
+        {
+          "id": 3,
+          "part": null,
+          "note": "意思是「鬆開問題的結」，引申為「解決」、「解答」"
+        }
+      ],
+      "position": 0
+    },
+    {
+      "id": 2,
+      "word": "solution",
+      "created_at": "2022-01-24T15:57:26.993+08:00",
+      "explanations": [
+        {
+          "translations": [ "解決方法；解答" ],
+          "word_types": [ "n" ],
+          "sentences": [
+            "Their efforts to find a solution have failed.",
+            "他們嘗試尋求解決方案失敗了。",
+            "The best solution to the recurring problem is to find a way to prevent the problem from happening.",
+            "對於這種一再發生的問題，最佳的解決方式就是找一個能夠杜絕它發生的方法。"
+          ]
+        }
+      ],
+      "phonetic": "səˋluʃən",
+      "audio_url": "https://speech.wordup.com.tw/1d615b158ff0d31ecaf262e1991546473d2efd459cdbb11bd14cbee647d91edd.mp3",
+      "word_roots": [
+        {
+          "id": 6494,
+          "part": "solu",
+          "note": "鬆"
+        },
+        {
+          "id": 6495,
+          "part": "t",
+          "note": "詞幹衍生物"
+        },
+        {
+          "id": 6496,
+          "part": "ion",
+          "note": "名詞字尾"
+        },
+        {
+          "id": 6497,
+          "part": null,
+          "note": "意思是「解決方法」、「解答」"
+        }
+      ],
+      "position": 1
+    }
+  ]
+}
