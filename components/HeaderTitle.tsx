@@ -4,6 +4,15 @@ const styles = StyleSheet.create({
   container: {
     alignItems: "center",
   },
+  title: {
+    fontSize: 18,
+    fontWeight: "bold",
+    color: "white",
+  },
+  subtitle: {
+    fontSize: 14,
+    color: "lightgray",
+  },
 });
 
 interface HeaderTitleProps {
@@ -16,12 +25,8 @@ const HeaderTitle: React.FC<HeaderTitleProps> = (props) => {
 
   return (
     <View style={styles.container}>
-      <Text style={{ fontSize: 18, fontWeight: "bold", color: "white" }}>
-        {title}
-      </Text>
-      {subtitle && (
-        <Text style={{ fontSize: 14, color: "lightgray" }}>{subtitle}</Text>
-      )}
+      <Text style={styles.title}>{title}</Text>
+      {subtitle && <Text style={styles.subtitle}>{subtitle}</Text>}
     </View>
   );
 };
